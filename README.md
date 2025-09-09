@@ -1,3 +1,1 @@
-# git practice
- Giới thiệu: Tôi là Lê Trọng Đức,MSSV 200300.
- 
+Đây là README từ nhánh main.
